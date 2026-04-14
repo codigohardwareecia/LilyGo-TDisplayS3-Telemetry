@@ -15,6 +15,8 @@ Vá em **Tools > Board > Boards Manager**, procure por **esp32** (da Espressif S
 Baixa o repositório do GitHub
 https://github.com/Xinyuan-LilyGO/T-Display-S3
 
+Instale a Biblioteca ArduinoJson em Sketch > Libraries, digite ArduinoJson e clique em Install 
+
 Após baixar o repositório, acesse a pasta Lib e copie a pasta TFT_eSPI para a biblioteca do Arduino que fica por padrão em "C:\Users\seu user\Documents\Arduino\libraries"
 
 O código do projeto e listado abaixo, copie e cole o código no seu Sketch, não esqueça de alterar o ssid e o password
