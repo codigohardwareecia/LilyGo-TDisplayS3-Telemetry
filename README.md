@@ -1,4 +1,4 @@
-### Roteiro Video 22 - Comuncando-se com o Lilygo T Display S3 - Telemetria
+### Comuncando-se com o Lilygo T Display S3 - Telemetria
 
 ### 1 - Código Arduino (ESP32-S3)
 
