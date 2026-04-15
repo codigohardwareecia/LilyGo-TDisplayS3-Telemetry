@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "MR3He8gjOJc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\principal\\Downloads\\LilygoTDisplay3TelemetryConsole\\LilygoTDisplay3TelemetryConsole\\LilygoTDisplay3TelemetryConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\principal\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.6\\system.configuration.configurationmanager.10.0.6.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.6\\system.diagnostics.eventlog.10.0.6.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.6\\system.diagnostics.performancecounter.10.0.6.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.6\\system.security.cryptography.protecteddata.10.0.6.nupkg.sha512",
+    "C:\\Users\\principal\\.nuget\\packages\\system.threading.accesscontrol\\10.0.6\\system.threading.accesscontrol.10.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
